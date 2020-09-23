@@ -1,5 +1,5 @@
 # Portofolio-management
-Portfolio management using Numpy (Qantopian)
+Portfolio management with Numpy (Qantopian)
 
 # Calculate expected return
 
